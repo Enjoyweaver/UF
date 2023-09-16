@@ -135,29 +135,19 @@ const features = [
     description:
       "Management of the capital fund will align with your Captive Ownership interests.",
     demo: (
-      <div className="grid grid-flow-col grid-rows-3 gap-10 p-10">
-        <span className="font-mono font-semibold">useIntersectionObserver</span>
-        <span className="font-mono font-semibold">useLocalStorage</span>
-        <span className="font-mono font-semibold">useScroll</span>
-        <span className="font-mono font-semibold">nFormatter</span>
-        <span className="font-mono font-semibold">capitalize</span>
-        <span className="font-mono font-semibold">truncate</span>
+      <div className="flex items-center justify-center space-x-20">
+        <Image alt="Auth.js logo" src="/46.jpg" width={150} height={150} />
       </div>
     ),
   },
 
   {
-    title: "Hooks, utilities, and more",
+    title: "About Us",
     description:
-      "Precedent offers a collection of hooks, utilities, and `@vercel/og`",
+      "From miners to insurance, we work within Bitcoin and its economy.",
     demo: (
-      <div className="grid grid-flow-col grid-rows-3 gap-10 p-10">
-        <span className="font-mono font-semibold">useIntersectionObserver</span>
-        <span className="font-mono font-semibold">useLocalStorage</span>
-        <span className="font-mono font-semibold">useScroll</span>
-        <span className="font-mono font-semibold">nFormatter</span>
-        <span className="font-mono font-semibold">capitalize</span>
-        <span className="font-mono font-semibold">truncate</span>
+      <div className="flex items-center justify-center space-x-20">
+        <Image alt="Auth.js logo" src="/56.jpg" width={150} height={150} />
       </div>
     ),
   },

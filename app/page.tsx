@@ -96,7 +96,7 @@ const features = [
   {
     title: "Public Captive",
     description:
-    "Learn more about the only publicly available Bitcoin Captive by reviewing our [documents](/documents).",
+    "Learn more about the only publicly available Bitcoin Captive by reviewing our [documents](https://bitcoindocs.vercel.app/).",
     demo: <WebVitals />,
   },
   {
